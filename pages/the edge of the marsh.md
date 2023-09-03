@@ -1,0 +1,2 @@
+- You could return from here to higher ground, the drier area near the tree [[stumps]] to the southwest, or slog through more marsh to the east and northeast towards a craggy [[spire]] or, farther off, [[the foot of the mountain]]
+- A lone [[spire]] of rock reaches from the muck into the sky, about three times your height. Affixed to its top is a wooden pole, the sole support of the ropeway cable on its long climb up the mountain.

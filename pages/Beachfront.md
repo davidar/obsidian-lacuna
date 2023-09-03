@@ -1,0 +1,30 @@
+- A gust of wind blows sand in whirls and eddies along the [[beach]].
+- A sudden breeze springs up, sending sand spiralling along the [[beach]].
+- Far out in the lagoon, a great blue-grey mass heaves above the surface-- a [[whale]]! With a spurt of air and mist, the creature glides gracefully back beneath the surface.
+- The lagoon is black and silent.
+- A steady wind blows the smell of the ocean across the beach.
+- Out in the [[lagoon]], [strange pale lights](rayfish) bob and weave under the water.
+- Dozens of [ghostly blue lights](rayfish) circle slowly under the waters of the [[lagoon]].
+- high tide
+	- A wave slowly breaks up the shallow lagoon, sending an undulating line of foamy water almost to your feet.
+	- Another wave breaks on the beach.
+	- The loud sound of rushing surf gives you just enough time to dance away as a larger than usual wave surges up the beach.
+	- Some [[seaweed]], black and shapeless in the dark, gyrates at the edge of the tide.
+	- Two waves roll up in quick succession, as if the second is overtaking the first.
+	- The sound of the surf surges around you as another wave breaks.
+- rising/falling uptide
+	- [one of]Some distance away[or]Farther down the beach[or]At the water's edge a stone's throw away[at random], [one of]a wave rolls in and breaks against the shore.[or]surf crashes against the sand.[or]the steady surge and ebb of surf continues.[or]a wave rolls gently in. You watch the breakpoint as it travels around the lagoon.[or]the surf beats against the sandy shore.[at random]
+	- A large wave rolls in across the lagoon and crashes spectacularly against the beach, the breakers surging to near where you're standing.
+	- A big wave crashes to shore down at the edge of the beach.
+- A small orange [[crab]] picks its way carefully through the sand.
+- A small crustacean carapace washes up to the beach.
+- A small [[crab]] picks at an abandoned carapace filling with sand, before losing interest and continuing along his way.
+- A tiny orange [[crab]] freezes motionless as you approach.
+- A wave tumbles a small orange [[crab]] end over end. It lies struggling upside down for a moment before righting itself and hurrying up the beach indignantly.
+- A little reddish-black [[crab]] digs at something in the sand with its front pincers.
+- A [[gull]] picks at its feathers with its beak before letting out a loud call.
+- A [[gull]] walks carefully along the [surface-material], occasionally poking at something with its indigo-tipped beak.
+- Two [[gulls]] flap wings and caw fiercely at each other for a moment over a piece of rotting fish, before one snatches it and takes to the air.
+- [[Gulls]] cry as they circle overhead, before heading back out to sea.
+- A distant flock of [[gulls]] cry raucously as they wing their way along the edge of the coast.
+- A [[gull]] swoops by your head, momentarily startling you out of your wits.

@@ -1,0 +1,2 @@
+- It looks as if something like a hammock once hung here, but in some past year of flooding the ropes must have weakened and rotted away. The few remaining strands are useless.
+- Too rotted and weak to be useful for anything.

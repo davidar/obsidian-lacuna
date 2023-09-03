@@ -1,0 +1,6 @@
+- Some rich vein of a brilliant sea-blue crystal slices diagonally through the rock here, brought up to the surface from unfathomed depths by some past volcanic action. The crystal seems inclined to break along hexagonal lines, producing the effect of crumbled six-sided pillars.
+- The pounding action of the [[waterfall]] has softened the edges, and in turn stained the whole wall and tinted the pool below a brilliant indigo.
+- You rub your fingers up against the crystal, turned an almost muddy texture, and study with a twinge of sadness the deep blue hues that stain your fingertips.
+- You smash a fist against the crystal, and a chunk breaks off easily
+- You touch your tongue to the crystal tentatively, but discern only a flavourless texture of grit.
+- You notice that the crystal is the same hue as the [[blue]] band on [[the door of the cabin on the beach]]

@@ -1,0 +1,1 @@
+- The mechanism seems designed to allow one to move the sculpture back up the track to dry land again under one's own power.

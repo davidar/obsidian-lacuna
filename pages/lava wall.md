@@ -1,0 +1,4 @@
+- Nearly vertical here, the lava flow's sharp edges drop smoothed and polished from floor to ceiling, a rippling, deep black surface.
+- Smooth and glasslike, although quite hard.
+- The floor, ceiling, and walls run right up against the lava flow, adjoining it at all points and leaving no gap to climb through.
+- Hard as rock. Which it is.

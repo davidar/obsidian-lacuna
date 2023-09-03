@@ -1,0 +1,1 @@
+- The sculpture is stunningly beautiful, capturing every curve of the graceful manta creature's flattened form. The [[clear crystal]] shimmers in the [light-source], and peering closer you can see that the sculpture is actually hollow. A [[hatchway]] on the top provides access to the interior.

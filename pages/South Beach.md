@@ -1,0 +1,4 @@
+- Stretching out before you is a breathtaking white sand [[lagoon]] framed by a cliff of jet-black lava, the glimmering [[beach]] forming a languid half-moon curve around a shallow bay of deep, rich blue.
+- The smell of the sea breeze on your face makes you pause for a moment; it's been a long time since you've seen [[ocean]].
+- The beach curves gently north around the [[lagoon]], stretching towards [[the distant rocky rise]], while disappearing closer at hand into [[the stand of rounded boulders]] to the southwest. You could also head into the waters of the [[lagoon]], or follow a faint path southeast into [[dense vegetation]].
+- [[Some grassy mounds]] are a perchable setpiece in South Beach.

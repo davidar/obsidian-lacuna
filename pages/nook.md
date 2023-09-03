@@ -1,0 +1,5 @@
+- It looks like a soft place to curl up in for a nap.
+- The leaves feel soft and dry.
+- You lie down on the bed of leaves, comfortably anchored between the two tree roots, and rest comfortably on your back, looking up into the sea of dancing lemon-yellow leaves above you.
+- Reluctantly, you rise to your feet again.
+- Lulled by the rustling of the leaves above and the quiet sigh of the tree, you drift into a deep, bottomless sleep.

@@ -1,0 +1,6 @@
+- North Island is a region.
+- A [[snail]] with a pearly-white shell inches along [if location is Stumps]a tree stump[otherwise]the ground
+- Two [[snails]] with pearl-white shells cross the ground near your feet, leaving milky trails behind.
+- A [[seagull]] swoops down and snatches a [[snail]] off [if location is Stumps]a nearby stump[otherwise]the ground[end if], crushing its pearl-white shell in its beak.
+- A half-crushed [[snail shell]], pearly-white, catches a momentary gleam of light in the moss underfoot.
+- A [[gull]] flies in to perch on [if location is Stumps]a nearby stump[otherwise if location is Chairlift Base]the roof of the shack[otherwise]a rocky rise[end if], and begins pecking at a few small milky-white [[snails]] half-heartedly.

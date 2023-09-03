@@ -1,0 +1,3 @@
+- The carvings, impossibly tiny, make up one immense, tropical scene. Splashing dolphins segue seamlessly into beaches littered with shells, tall, graceful palm trees, laughing children, and fanciful animals. You could study these carvings for hours without taking in all the detail.
+- Along the top of the cube, worked into the design, are five oval [[indentations]].
+- The relief is only as deep as a fingernail, but seems to lend the carvings a remarkable sense of depth and dimension. You run your finger along the aging wood, feeling the texture of the grain and the artist's tool.

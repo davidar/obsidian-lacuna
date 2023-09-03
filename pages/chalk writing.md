@@ -1,0 +1,1 @@
+- I want to go home. I miss mommy. What's wrong with daddy?

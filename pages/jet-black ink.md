@@ -1,0 +1,4 @@
+- The cloud of ink, though rapidly dispersing into the waters of the bay, is dense and seems pitch black.
+- You move your hand through the cloud and lift it above the water; some of the black residue clings to your fingers.
+- It's salty and fishy and warm, and not that tasty.
+- You notice that the ink is the precise shade of the [[black]] band painted on [[the door of the cabin on the beach]]

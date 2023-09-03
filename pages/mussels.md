@@ -1,0 +1,6 @@
+- A bit longer and wider than a fat thumb, they are a deep forest green cut through with striated arcs of lighter shades. Fragments of the shells of their ancestors tumble in the [[surf]], diminishing to gritty green whorls
+- The living mussels are gripped tightly to the rocks, but you pick up a green shell fragment tumbling in the [[surf]] and turn it in your hands for a moment, admiring the rich coloration, before tossing it back into the foam.
+- Tiny barnacles clinging to their shells and the slippery sea water prevent you from getting a good grip.
+- You manage to pry one of the mussels off the rock and awkwardly scrape some of the rubbery flesh off the shell. The taste is refreshing but fairly bland; perhaps cooked or with some seasonings they would taste better.
+- You take one abandoned mussel shell and smash it against the rock. It shatters into dozens of virescent fragments and wisps of green powder.
+- You notice that the colour of the mussel shells is the same shade as the [[green]] band of colour painted on [[the door of the cabin on the beach]]

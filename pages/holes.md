@@ -1,0 +1,2 @@
+- They range in size from knobby round gaps nearly as big as your head, in crooks and splits near the trunk, to tiny pinholes trailing along the ends of the smallest branches, and run all the way through the wood, letting you see through to the other side.
+- You blow through a tiny hole along a low hanging branch, and produce a momentary crystal-clear hum.

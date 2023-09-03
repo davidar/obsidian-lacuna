@@ -1,0 +1,1 @@
+- It's a long clump of seaweed. Green nodules full of air are spaced along its length, along with graceful filaments and tendrils of leaves.

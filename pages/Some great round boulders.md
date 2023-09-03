@@ -1,0 +1,4 @@
+- You give it a good try, but the sides are too wet and slippery. You have no idea how [[Progue]] got up there.
+- The sides are surprisingly smooth, mottled with strange moss and lichens.
+- They are huge, and must have been buried in the sand here for eons.
+-

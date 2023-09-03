@@ -1,0 +1,3 @@
+- Beautifully made, the compass has a long thin needle under glass, the round enclosure set into a brass base delicately inscribed with directions in eight points sweeping around from north to northwest. A matching chain allows the compass to be worn around the neck.
+- A secret compartment has been swung open on the back to reveal a seven-pointed star
+	- sticking about a thumb's width out from the surface

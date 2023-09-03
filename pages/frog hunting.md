@@ -1,0 +1,2 @@
+- "They like to hide down in the weeds," he says seriously, "in this part of [[the island]]. They believe they're quite clever, but I've got years, years of practice. Been here [[a long time]]."
+- [[The strange man]] suddenly dives forward in a frantic tackle, belly flopping into the marsh, but then scrambles to his feet a moment later with a green frog in his hands. "Well oh well oh," he says to his tiny captive, "we meet at last."

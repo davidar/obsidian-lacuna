@@ -1,0 +1,3 @@
+- You kneel to study the drawings more closely. The simple subjects suggest the work of a small child, but still show some skill: a rendering of a bulbous frog captures the creature's awkward grace, and another of two dragonflies twirling around each other in flight shows remarkable details in the delicate wings. One large sketch shows two girls holding hands, backs turned, skipping along a beach.
+- Below the drawings is drawn some [[chalk writing]] in a simple, awkward hand.
+- Wind and rain has almost completely washed the faint drawings away; just the touch of your finger erases the line underneath it.

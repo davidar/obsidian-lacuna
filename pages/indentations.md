@@ -1,0 +1,2 @@
+- Four are clustered together in an arc, the fifth farther apart.
+- You slip your fingers into the indentations along the top and push with your other hand. The top rotates open easily, revealing a delicate [[sketchbook]].

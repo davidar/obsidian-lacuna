@@ -1,0 +1,9 @@
+alias:: forest, underneath the treehouse
+title:: Big Tree, Beneath the Treehouse
+
+- Before you stands a [[windsigh tree]] , larger than the first one and different in another notable way: a small strange [[treehouse]], all curves and strange extrusions, is built in its lower branches, overgrown with moss and vegetation, vines running up and down the sagging rope [[ladder]] leading to its covered interior. The ground drops off to the west behind the tree, but opposite the forest slopes gently upwards
+- #raining
+	- As you step around the [[treehouse]] in the rain, studying its strange curves and patches, you suddenly stop in your tracks. The rain has altered the colour and texture of its components, and as it falls and curves around the wooden rafters and beams it accentuates certain details and hides others. You take a step to the left and suddenly you see it.
+	- The [[treehouse]] is an achingly beautiful sculpture of a woman's face, drawn and haggard as in the last stages of some long illness which nevertheless cannot hide the charm of her appearance or character. Rain curves around the bulge in the wall that is her cheekbone, trails down the vines of her hair, and glistens in the specks of quartz that are the highlights in her eyes. But only when the light is flattened by overcast clouds, only when the rain soaks into the wood and turns it the hues of her face, and only standing just at the right spot, is she here.
+	- Rain drizzles through the leaves of [windsigh phrase of tree2] above, dripping in streams off the roof of the sinuous [[treehouse]], where the face of the sad, haggard woman once again looks out at you.
+- The rotting rope [[ladder]] leads up through the open doorway of the [[treehouse]]. The way north to [[the overgrown path]] is open, and opposite that the forest seems to give way to [open terrain](Volcano Slopes) to the south.

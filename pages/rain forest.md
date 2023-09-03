@@ -1,0 +1,2 @@
+- The deep greens of the forest fill their side of the island, from low cliffs running along its eastern boundary to the northern slopes of the volcano. At the forest's northern end, a huge ravine separates it from the mountain.
+- The forest is a mostly level plateau, except for one [[depression]] near its eastern side.

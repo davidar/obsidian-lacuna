@@ -1,0 +1,4 @@
+- The massive piece of wood has been bleached clean and rubbed smooth by countless years in the sea, a giant, misshapen bone thrusting out of the sand. Patches of pale green moss cling to its underside.
+- The wood is smoother than you expected, the bark long since rotted away leaving only hard white curves, bumps and imperfections only rounded echoes now.
+- You heave against the edge of the driftwood, but it is firmly buried in the sand, and probably has been for years.
+- You clamber atop the ancient driftwood and rest for a few moments. The sea-smoothed wood is like warm glass under your hands. Finally, you climb back down to the beach.

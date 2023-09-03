@@ -1,0 +1,1 @@
+- "A tragic rip," Progue says sadly, holding up a grey-brown piece of threadbare fabric for your inspection. "Really, at my age I should be more careful when [[climbing]], but when one dangles from a cliff one can't afford to worry about one's clothes, can one?" He sighs.

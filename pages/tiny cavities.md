@@ -1,0 +1,1 @@
+- The hemispherical holes must have been spheres of empty space inside the tree, of all sizes.

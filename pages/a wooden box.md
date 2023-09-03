@@ -1,0 +1,7 @@
+- You blow sand and dust off as you kneel to examine it, brushing years of neglect from its detailed surface.
+- The box is a perfect cube, each side about the length of your forearm, carved from interlocking pieces of wood which fit together seamlessly without nails or mismatched joins. Intricate [[carvings]] cover every surface. Salt crusts the lower third, where the wood is swollen and discolored.
+- The top of the cube has swung open, revealing a delicate [[sketchbook]], seemingly undamaged.
+- The wooden cube is too heavy and bulky to carry around, but as you lift it experimentally, you hear something shifting inside
+- You rap experimentally on the side of the cube, and hear a hollow thunk in response.
+- You rock the cube back and forth. It seems lighter than it should be, and you can hear something shifting around inside
+- You throw the cube at one of the walls. It makes a hollow clunk as it impacts but the wood does not give way, although you can hear something flopping around inside

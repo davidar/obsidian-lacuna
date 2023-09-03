@@ -1,0 +1,1 @@
+- "The beach is mostly usually safe," Progue says, counting on his fingers, "and the [[waterfall]], and the marsh and most of the northern parts. But once you gallop up that path into the [[forest]], that's [[creeper]] land. Best to stay ambly down here by sand and marsh, where you know and know what's safe."

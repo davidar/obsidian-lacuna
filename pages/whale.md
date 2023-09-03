@@ -1,0 +1,1 @@
+- He's already vanished below the surface, leaving only a distant patch of churning bubbles behind.

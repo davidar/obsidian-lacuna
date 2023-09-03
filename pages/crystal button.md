@@ -1,0 +1,1 @@
+- A hexagonal pillar of crystalline mineral.

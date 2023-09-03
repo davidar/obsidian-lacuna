@@ -1,0 +1,1 @@
+- You strip a few of the fibres from the husk of one of the fruits. They seem strong and resilient, but it would take days to make anything useful from them, so you let them fall back to the ground.

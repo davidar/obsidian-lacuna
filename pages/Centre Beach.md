@@ -1,0 +1,2 @@
+- The beach widens here in the middle of its sweeping curve around the [[lagoon]], rising in graceful white dunes to the sudden black slope of the old [[lava flow]]. Up against the flow is built a [[log cabin]], looking long-neglected but still intact.
+- The beach stretches away south towards [[the cluster of boulders]] or north towards [[the rocky rise]], or you could also head into the waters of the [[lagoon]]. The [[cabin]] lies up the beach to the east.

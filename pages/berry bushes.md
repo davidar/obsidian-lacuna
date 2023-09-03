@@ -1,0 +1,2 @@
+- Close to the ground but with many wide, gently arcing branches, the smattering of bushes bears many red [[berries]], about as wide as your pinky.
+- You grasp one of the bushes and try to uproot it, but cut yourself on a sharp twig and are forced to stop.

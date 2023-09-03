@@ -1,0 +1,2 @@
+- They have been shaped to neatly fill a crack bisecting the lava flow, from the top of the [[door]] to the roof of the shack, fitting together without any seam.
+- The cobblestones, set firmly, do not budge at all.

@@ -1,0 +1,2 @@
+- About forty or fifty of the tall, swaying [[konokuk tree]]s seem to have been felled some years ago, though moss and vines have since grown over what remains.
+- Almost hidden by accumulated dirt and vegetation, a blue bamboo [o]pipe[x] runs past a [[particularly large stump]] on its way to the ropeway.

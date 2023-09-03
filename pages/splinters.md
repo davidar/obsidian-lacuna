@@ -1,0 +1,3 @@
+- Some smashed wood splinters: The wood looks like it might once have been a cabinet, smashed in some long-past fury.
+- Amidst the wreckage, however, rests an ornate [[compass]] in a brass base, apparently intact.
+-

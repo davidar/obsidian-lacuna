@@ -1,0 +1,2 @@
+- The vines sprout from orifices about the size of your wrist spread out all over the trunk of the tree, and wrap tightly around it in a helix spiralling up, splitting and shrinking in diameter, until each one leaves the trunk to twine out around a branch, sprouting hundreds of small [[lemon-yellow leaves]].
+- The vines spring from the trunk and are tightly wrapped around it and the branches. They seem to be attached to the tree by thousands of tiny hook-like hairs.

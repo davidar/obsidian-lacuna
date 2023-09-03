@@ -1,0 +1,1 @@
+- The branches spread out in all directions, beginning at about eye level, angled only slightly to the horizontal as they leave the trunk but then curving upwards to eventually become vertical. Every branch is wrapped in vines sprouting the [[lemon-yellow leaves]] or flowers. The vines even curve around the strange [[holes]] that appear at random along the length of each branch.

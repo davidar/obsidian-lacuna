@@ -1,0 +1,1 @@
+- The stripe is a rich, vibrant [[lemon-yellow]].

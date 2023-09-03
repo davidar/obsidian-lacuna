@@ -1,0 +1,7 @@
+- Tinted with hues of green, the surface of this round pool constantly shifts and dances as the [[waterfall]] plunges from a mossy overhang. The pool looks deep enough for diving under the churning falls, but shallows near the far end to a jumble of good sitting rocks a few feet below the surface. The water is hot and steaming, simultaneously warmed by some scalding source below and cooled by the [[waterfall]].
+- The water is hot, but not uncomfortably so.
+- You cautiously sip a bit of water gathered in your hand. It seems all right.
+- Bending to your knees, you scoop a few handfuls of the pool water to your mouth and drink deeply. It is exceedingly refreshing, the taste holding a faint hint of some mineral effervescence. After drinking your fill, you rise to your feet again.
+- You cup two hands together and scoop up some of the hot water, feeling it immediately cool as it trickles through your fingers down your arms and elbows. You let it trickle away and enjoy the cool sensation as your hands dry.
+- With a little thrill of excitement, you dive into the pool. The water is hot, almost too much so for swimming, but feels invigorating and cleansing nonetheless. When you near the cool of the [[waterfall]], you can feel the temperature difference between it and the pool distinctly, invisible eddies of heat transference swirling about your legs.
+- After a while you retreat to the rocks near the shallow end and relax for a while

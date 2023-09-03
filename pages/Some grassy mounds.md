@@ -1,0 +1,2 @@
+- The tufts of grass, tentative toes of the forest, fringe its dark interior as they run in irregular clumps along the edge of the sand.
+- The blades of grass are pointy on top, but feel soft and springy as you run your hand through them.

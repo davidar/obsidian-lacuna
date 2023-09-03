@@ -1,0 +1,18 @@
+- The nearby beach is a view with base room [[Centre Beach]]. It is in [[Tidepools]], [[Among the Boulders]], [[South Beach]], [[Centre Beach]], [[North Beach]], [[Rise]], [[Lower Beach]], and [[Ocean Waters]]. It is very near [[Tidepools]], [[Among the Boulders]], [[South Beach]], [[Centre Beach]], [[North Beach]], [[Rise]], [[Lower Beach]], and [[Ocean Waters]].
+- Almost glowing in the faint light, the beach
+	- [if location is Among the Boulders]is interrupted here by the patch of boulders
+	- [else if location is not North Beach and location is not South Beach and location is not Center Beach and location is not Lower Beach]is interrupted by pebbles and rubbed-smooth stones
+	- [else if cleanliness of location is spotless]is smooth and featureless, white curves unblemished by imperfections
+	- [otherwise if cleanliness of location is flecked]is dotted with tiny specks of seaweed and shell fragments
+	- [otherwise if cleanliness of location is marred]is strewn with clumps of slimy seaweed and other debris from the ocean[otherwise]is a mess of smelly patches of seaweed, fish carcasses, gull feathers, and pieces of bony driftwood
+- You scoop up a handful of the wet, almost muddy sand, feeling it ooze in gritty trickles through your fingers.
+- You let a handful of the warm sand run through your fingers. So fine they feel almost soft, the grains sparkle in the bright sun as they fall in a thin line back to the beach.
+- The undulating white sand beach [if moonup]silvers in the moonlight, which sparkles faintly on the [otherwise]is dim and indistinct under the stars, the border between ground and sky defined by the sound of the [end if][if tideout]distant waves[end if][if rising uptide or falling uptide]waves, a stone's throw away[end if][if high tide]runners of foamy surf reaching almost to your feet
+- [if falling uptide or falling downtide]Damp sand glistens[end if][if high tide]Foamy breakers lap the shore[end if][if low tide or rising downtide or rising uptide]Smooth stretches of sand spread out[end if] [if moonup]ghostly white [end if]before you, [if location is South Beach]dotted with myriad tiny shells and pieces of wood[otherwise]unbroken save for your own footsteps
+- The stillness of the great crescent beach is magical in the half-light; the whole expanse curving out before you quietly breathtaking. #twighlight #dawn
+- if cleanliness of location is spotless begin; say "[one of]Spotless[or]Pristine[or]Gleaming[at random] white [o]sand[x]";
+  	otherwise if cleanliness of location is flecked; say "White [o]sand[x] [one of]flecked with bits of seaweed and debris[or]spotted here and there with flecks of weed or fish bones[or]dotted with small bits of refuse and flotsam[at random]";
+  	otherwise if cleanliness of location is marred; say "[o]Sand[x] [one of]strewn with[or]littered with[or]marred by[at random] [one of]strings of seaweed, stones, and pieces of driftwood[or]jagged broken shells and decomposing seaweed[at random]";
+  	otherwise; say "[one of]Grimy[or]Dirty[or]Yellowing[at random] [o]sand[x] [one of]covered in[or]smeared with[at random] [one of]stinking seaweed, splintered driftwood, broken shells and gull feathers[or]seagull droppings, rotting seaweed, and splinters of driftwood[at random]";
+  	end if;
+  	say " [if midday and cleanliness of location is spotless]almost blinds you as it [end if][one of]curves around the[or]stretches in a great arc around the[in random order] [[lagoon]].

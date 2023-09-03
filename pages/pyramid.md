@@ -1,0 +1,1 @@
+- The pyramid sits inscrutably atop the mountain. The whole summit of the mountaintop is lit by the deep ruby glow streaming brightly from its edges, and a faint crimson beam of luminescence rises into the sky, and you can hear even from here a deep, rhythmic thrumming which seems to come from somewhere inside.

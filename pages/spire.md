@@ -1,0 +1,5 @@
+- A great splinter of rock that must have fallen from the shattered mountain long ago rises at a slightly crooked angle from the marsh like a giant's bony finger.
+- [[Several faint drawings in chalk]], faded to near invisibility, adorn the base of the spire.
+- You test some handholds. The knobby rock makes for an easy climb. Quickly, you pull yourself up the short distance to its top.
+- Supporting yourself on the ropeway pole, you stand up on the precarious top of the spire. From here, you can see how the pole was firmly embedded into a natural crack in the rock, secured with dozens of stone pegs. Squinting, you follow the path of the two cables as they steepen up towards the distant summit of the mountain.
+- Curiosity satisfied, you return back to the swampy ground.

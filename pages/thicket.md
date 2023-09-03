@@ -1,0 +1,1 @@
+- Below you can hear the sound of the surf beating against cliffs, but the terrain is too steep and too thick with vegetation to be passable.

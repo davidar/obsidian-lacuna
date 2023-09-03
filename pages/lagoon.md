@@ -1,0 +1,9 @@
+- The sand is smooth and damp, sprinkled with a profusion of shells, small stones, and clumps of seaweed.
+- A huge and beautiful [[sculpture of a manta ray]], carved from some [[clear crystal]], sits on a track running into the [[waves]].
+- You can [if tideout]hike back up[else]wade towards[end if] the beach in one of several directions: northeast towards [[the rocky rise]], east towards the [[log cabin]], or [southeast] towards [[the beach near the path]]. You could also wade [if tidein]farther [end if]out into the [[ocean waters]] to the [west]
+- ---
+- The lagoon undeniably captivates the eye, aesthetically perfect in some indescribable way. Electric blue water far out to sea fades to a creamy neon turquoise as it enters the shallows of the bay, before crashing in long foamy runners of [[surf]] on the white sand beach which rims it. At one end of the bay, a rocky rise of black lava tumbles across the sand and into the water, forming a sharp boundary and a shocking contrast of colour, while the other side is bounded by a lower point filled with tidepools and rounded boulders.
+- [if evening or sunset or afternoon]sparkles in the distance as the sun reflects off its cerulean waters
+- [otherwise if midday or midmorning or morning or sunrise]arcs gently in the distance, a jewel of blue and cream
+- [otherwise if twilight or dawn]shimmers subtly in the distance, like a dark blue bruise in the shadowless light
+- [otherwise]in the distance is marked by faintly seen blobs of pale moving light

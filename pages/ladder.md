@@ -1,0 +1,2 @@
+- The ladder, expertly weaved long ago from now-brown strands of vine, seems to have suffered years of neglect and exposure to the elements. Fresh vines and moss creep up the sides and along the rungs, and one side has sagged further under the weight.
+- Ancient knots bind it to the [[treehouse]], and newer strands of green further connect it to ground and tree alike.

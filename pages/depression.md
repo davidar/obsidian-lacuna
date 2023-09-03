@@ -1,0 +1,1 @@
+- The deep, circular depression seems unusual in the otherwise relatively level topography of the forest. A faint metallic glint pokes through the thick vegetation. From this great distance you can't make out any further details, or see what's at the bottom.

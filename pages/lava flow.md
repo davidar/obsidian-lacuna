@@ -1,0 +1,1 @@
+- Now black and hardened, rising to some five or six times your height in steep, sharp angles, this lava flow sliced across the island decades or centuries ago, descending from the ruined cone of the volcano to the [[ocean]] near the rise.

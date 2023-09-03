@@ -1,0 +1,2 @@
+- This stump is larger than the others and set apart a little, and as you examine it more closely, it seems clearly the remnant of another type of tree. Thousands of [[tiny cavities]] dot the surface, ranging in size from fist-shaped to the lower limits of your vision to make out.
+- You run your hands over the uneven surface of the stump, letting your fingers bounce in and out of the [[tiny cavities]], but feel nothing unusual.

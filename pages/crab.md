@@ -1,0 +1,5 @@
+- About the size of your hand, this curious creature scuttles sideways along the sand quite nimbly, holding pincers above him and darting eyes on long stalks every way it can.
+- You reach out your hand for one of the creatures, but it dashes away in a panic before you can grab it, tiny legs pumping furiously.
+- You reach down to grab it, but in a snap it nips you with a pincer and darts away. Ouch! You rub your finger gingerly.
+- You sidle cautiously towards the crab, then reach down in a flash. You got him! He snaps pincers and waves his legs fiercely as you study his fine carapace and detailed underbelly. Finally, you set him back down. He snaps once more, indignantly, before beating a hasty retreat down the beach.
+- You aim a kick at one of the little creatures, but it scuttles out of the way with better reflexes than you gave it credit for, and quickly hurries out of sight.

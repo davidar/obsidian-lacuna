@@ -1,0 +1,2 @@
+- The skeleton, mounted on the wall, makes a large diamond, and must have once belonged to some flat, manta ray creature with rare elegance. Now, bleached and dusty, it only seems to add to the loneliness and neglect of the [[cabin]].
+- The bone is cold and hard.

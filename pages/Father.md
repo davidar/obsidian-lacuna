@@ -1,0 +1,1 @@
+- "The [[Father]] built a [[treehouse]] ," he says, "for his children. Oh! Must be [[those two little girls]]. The children. That'd make sense. Well and but the point is, the treehouse has a secret," he continues, "that can only be seen in the [[rain]]."

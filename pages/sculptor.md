@@ -1,0 +1,3 @@
+- "The [[Sculptor]] left all kinds of strange and strange art scattered round the island," he says, "but the secret one's somewhere on the beach. Look for it when the tide is low, and have my words you'll find it."
+- ---
+- "Crazy old hermit!" Progue says, nodding. "One of the Three Great Men with their secrets. Built all kinds of contraptions everywhere. Used to live here for a span, years ago. Never knew what happened to him in the end. Probably swallowed by the [[creeper]]."

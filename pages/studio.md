@@ -1,0 +1,5 @@
+- High, narrow [[windows]]
+- this small porch, the purpose of which seems instinctively clear to you the moment you enter: it is an artist's studio
+- The floor is [if wall to wall workbench is dirty]stained with paint and clay, and artisan [[tools]] litter the surface of [[a wall-to-wall workbench]], though everything seems to be under a layer of [[thick dust]], as if undisturbed for years[otherwise]swept clean, though ghosts of paint stains still linger, and the wall-to-wall workbench has been scrubbed and unburdened of its old clutter, ready for use again[hutpaints]
+- On the rough plank walls on your left and right, exactly opposite each other, hang two spectacular [[paintings]].
+- The only exit is back [south] to the front room of the [[cabin]]

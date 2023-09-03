@@ -1,0 +1,2 @@
+- It looks as if this room has remained undisturbed for many years. There is a strange, expectant feeling in this place, as if, no matter how briefly, something great once touched it and left a mark for all eternity.
+- The grime and dirt leaves smudges on your fingertips.

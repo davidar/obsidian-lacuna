@@ -1,0 +1,1 @@
+- A single oval [[mussel]], its shell lined with tiny ridges.

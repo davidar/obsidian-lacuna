@@ -1,0 +1,1 @@
+- About halfway to the horizon, the column of steam must foretell some significant geological event taking place under the waves, perhaps the precursor to the dormant volcano's successor.

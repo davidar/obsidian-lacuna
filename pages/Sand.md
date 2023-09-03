@@ -1,0 +1,1 @@
+- Piled to your ankles near the door, the miniature dunes shrink down to the thickness of grains by the far walls[if Back Room is unvisited], utterly smooth and undisturbed-- though perhaps the beach winds would smooth out footsteps in days[otherwise if Jumble is unvisited], disturbed only by your footprints[end if].

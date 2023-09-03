@@ -1,0 +1,1 @@
+- Milky, with a faint pearlescent shimmer.

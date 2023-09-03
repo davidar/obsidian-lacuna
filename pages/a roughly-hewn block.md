@@ -1,0 +1,3 @@
+- The stone seems to be part of a spire that once rose here, of some natural material that erodes more slowly than the surrounding rock. The part jutting up out of the earth has been roughly hacked into a block large enough to stand inside, were it hollow.
+- It's only just your height. You awkwardly hoist yourself up to the semi-flattened top of it and take a look around, but don't gain any new insights, so you lower yourself back to the ground.
+- Salt encrusts the seaward side of the stone, from years or decades of high tide spray lashing against it, but the opposite side is smoother and grey, edges rough where human tools shaped it.

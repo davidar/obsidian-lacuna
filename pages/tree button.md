@@ -1,0 +1,2 @@
+- [if tree1 is named]Unmistakably a [[windsigh tree]]
+- [otherwise]It's another one of those [[strange trees]] like the one you painted
